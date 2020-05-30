@@ -1,0 +1,15 @@
+{
+  "name": "assignment_3_cc",
+  "version": "1.0.0",
+  "description": "Assignment_3 CC AWS Beanstalk Deployment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
